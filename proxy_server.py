@@ -1,6 +1,8 @@
 import socket
 from threading import Thread
 
+# preset bytes to read value
+
 BYTES_TO_READ = 4069
 PROXY_SERVER_HOST = "127.0.0.1"
 PROXY_SERVER_PORT = 8080

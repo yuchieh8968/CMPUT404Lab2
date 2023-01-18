@@ -1,5 +1,7 @@
 import socket
 
+# preset bytes to read value
+
 BYTES_TO_READ = 4096
 
 
